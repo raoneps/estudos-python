@@ -8,7 +8,7 @@ connection = bd.connect(
     host='127.0.0.1',
     port='5432',
     user='postgres',
-    password='R@1985oneps21')
+    password='admin')
 
 cursor = connection.cursor()
 
